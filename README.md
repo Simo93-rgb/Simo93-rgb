@@ -1,15 +1,13 @@
 # Hi, I'm Simone! 👋
 
-🎓 Education:
-I'm a student of Artificial Intelligence at the University of Eastern Piedmont, Italy. My studies cover a broad range of topics in AI, including machine learning, neural networks, and data science.
+I'm a Master's student in Artificial Intelligence at the University of Eastern Piedmont, with a strong foundation in Computer Science. My goal is to build intelligent systems, tackling complex challenges to turn data into practical, high-value solutions.
 
-💻 Passion for Technology:
-I have a deep passion for computer science and technology. From software development to system architecture, I enjoy exploring various aspects of the field and continuously expanding my knowledge. 
+🌱 My core interests and work areas include:
 
-🦀 Exploring Rust:
-Currently, I'm diving into the Rust programming language. I find Rust's emphasis on safety and performance particularly intriguing, and I'm excited to see how it can be applied in different contexts.
+* **Machine & Deep Learning:** Developing and training models for classification, regression, and clustering problems. 
+* **Computer Vision:** Experienced with object detection using YOLO. 
+* **Data Science:** Analyzing and manipulating complex datasets using Python and its core libraries (Pandas, NumPy, Scikit-learn) to extract meaningful insights.
 
-🛠 Tools I Use:
+🦀 I'm currently diving into:
+I'm applying **Transformer architectures** to the medical domain as part of my master's thesis, with a focus on **Explainable AI (XAI)** to uncover why certain patients experience delays during the discharge process.
 
-JetBrains IDEs: I regularly use JetBrains tools for my development work, enjoying their robust features and integrations.
-VS Code: Visual Studio Code is another go-to tool for me, especially for its versatility and extensive range of extensions.
